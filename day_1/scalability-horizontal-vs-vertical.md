@@ -337,4 +337,3 @@ mindmap
 
 ---
 
-*This file is written in GitHub-flavored Markdown with Mermaid diagrams — it will render natively on GitHub, GitLab, and most modern Markdown viewers.*
